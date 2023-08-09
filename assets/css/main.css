@@ -707,8 +707,6 @@ input, select, textarea {
 		.image.main2 {
 			display: flex;
 			justify-content: center;
-			margin-left: 37.5%;
-			margin-right: 37.5%;
 		}
 
 			.image.main img {
